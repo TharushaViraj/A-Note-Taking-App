@@ -6,7 +6,7 @@ NOTES_FILE = "notes.txt"
 
 def display_menu():
     """Display the menu options to the user."""
-    print("\n--- Note-Taking App ---")
+    print("\n--- Note-Taking Application ---")
     print("1. View Notes")
     print("2. Add Note")
     print("3. Delete Notes")
