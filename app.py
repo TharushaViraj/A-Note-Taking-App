@@ -58,6 +58,6 @@ def main():
         else:
             print("\nInvalid option. Please try again.")
 
-
+# Main function
 if __name__ == "__main__":
     main()
