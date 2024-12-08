@@ -1,3 +1,4 @@
+# Author : Tharusha Viraj
 import os
 
 # File to store notes
